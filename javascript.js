@@ -6,7 +6,7 @@ const person = {
   age: 50,
   eyeColor: "blue",
 };
-
+  
 objectName["propertyName"]
 
 person["firstName"]
